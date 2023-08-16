@@ -10,7 +10,13 @@ Javascript | HTML | CSS | React
 
 ____
 
-✍ Check out my repositories that I've developed with Kenzie Academy bootcamp
+✍ Check out my main repositories that I've developed with Kenzie Academy bootcamp
+
+<div>
+  <h3>Control Finance - array methods, DOM, responsiveness</h3>
+  <a href="https://github.com/jaq442/control-finance"> See the code </a>
+  <a href="https://kenzie-academy-brasil-developers.github.io/Kenzie-Academy-Brasil-Developers-control-finance-jaq442/"> See it running </a>
+</div>
 
 <!--
 **jaq442/jaq442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
