@@ -8,7 +8,9 @@
 
 Javascript | HTML | CSS | React
 
-### ✍ Check out my repositories that I've developed with Kenzie Academy bootcamp
+____
+
+✍ Check out my repositories that I've developed with Kenzie Academy bootcamp
 
 <!--
 **jaq442/jaq442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
