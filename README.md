@@ -6,11 +6,20 @@
 
 ### 💻 Skills
 
-Javascript | HTML | CSS | React
+Javascript | HTML | CSS 
 
+### 🌱 I’m currently learning 
+
+React | Dart | Flutter
 ____
 
 ✍ Check out my main repositories that I've developed with Kenzie Academy bootcamp
+
+<div>
+  <h3>Hub | React | React Router DOM, React Hook Form, zod and contextAPI</h3>
+  <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-jaq442"> See the code </a><br>
+  <a href="https://hub-azure-eta.vercel.app/"> See it running </a>
+</div>
 
 <div>
   <h3>Nu Kenzie | React | Vite, useState, components</h3>
