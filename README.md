@@ -2,7 +2,7 @@
 
 ✨ My name is Jaqueline Hirose
 
-🚀 I'm studying Internet Systems and most of my abilities were gained from bootcamps.
+🚀 I'm a Internet Systems student and most of my abilities were gained from bootcamps.
 
 ### 💻 Skills
 
