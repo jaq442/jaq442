@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-✨ My name is Jaqueline Hirose
+✨ My name is Jaqueline Hirose (29 yo)
 
 🚀 I'm a Internet Systems student and most of my abilities were gained from bootcamps.
 
