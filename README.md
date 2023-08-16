@@ -24,7 +24,7 @@ ____
 <div>
   <h3>Nu Kenzie | React | Vite, useState, components</h3>
   <a href="https://github.com/jaq442/finance-jaq"> See the code </a><br>
-  <a href="https://nu-kenzie-jaq442-five.vercel.app/"> See it running </a>
+  <a href="https://finance-jaq.vercel.app/"> See it running </a>
 </div>
 
 <div>
