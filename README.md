@@ -10,7 +10,7 @@ Javascript | HTML | CSS
 
 ### 🌱 I’m currently learning 
 
-React | Dart | Flutter
+React
 ____
 
 ✍ Check out my main repositories that I've developed with Kenzie Academy bootcamp
