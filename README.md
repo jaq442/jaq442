@@ -18,7 +18,6 @@ ____
 <div>
   <h3>Hub | React | React Router DOM, React Hook Form, zod and contextAPI</h3>
   <a href="https://github.com/Kenzie-Academy-Brasil-Developers/react-entrega-kenzie-hub-jaq442"> See the code </a><br>
-  <a href="https://hub-azure-eta.vercel.app/"> See it running </a>
 </div>
 
 <div>
