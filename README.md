@@ -1,19 +1,19 @@
 ### Hi there 👋
 
-✨ My name is Jaqueline Hirose (29 yo)
+✨ My name is Jaqueline Hirose (30 yo)
 
 🚀 I'm a Internet Systems student and most of my abilities were gained from bootcamps.
 
 ### 💻 Skills
 
-Javascript | HTML | CSS 
+Javascript | HTML | CSS | NodeJS | React
 
 ### 🌱 I’m currently learning 
 
-React
+Python
 ____
 
-✍ Check out my main repositories that I've developed with Kenzie Academy bootcamp
+✍ Check out my main repositories that I've developed with bootcamps
 
 <div>
   <h3>Hub | React | React Router DOM, React Hook Form, zod and contextAPI</h3>
